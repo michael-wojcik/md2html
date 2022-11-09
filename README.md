@@ -22,6 +22,7 @@ Run the script in your terminal by navigating to this directory and running the 
 ```shell
   node index.mjs RELATIVE_FILE_PATH
   # OR
+  # after running `chmod u+x index.mjs` to allow for direct execution of file
   ./index.mjs RELATIVE_FILE_PATH
 ```
 
